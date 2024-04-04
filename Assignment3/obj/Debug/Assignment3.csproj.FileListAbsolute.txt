@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\564604374_Assignment3Skeleton_4487201383012550 (1)\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\Admin\Downloads\564604374_Assignment3Skeleton_4487201383012550 (1)\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\Admin\Downloads\564604374_Assignment3Skeleton_4487201383012550 (1)\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\Admin\Downloads\564604374_Assignment3Skeleton_4487201383012550 (1)\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\564604374_Assignment3Skeleton_4487201383012550 (1)\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\564604374_Assignment3Skeleton_4487201383012550 (1)\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\Admin\Downloads\564604374_Assignment3Skeleton_4487201383012550 (1)\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+C:\Users\HP\source\repos\file-5646043746_5\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\HP\source\repos\file-5646043746_5\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\HP\source\repos\file-5646043746_5\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\HP\source\repos\file-5646043746_5\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\file-5646043746_5\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\file-5646043746_5\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\HP\source\repos\file-5646043746_5\Assignment3\obj\Debug\Assignment3.pdb
